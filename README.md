@@ -1,5 +1,5 @@
 # azure-ai-engineer
-This repository holds code related to the certification for the azure ai engineering certification including azure foundry. 
+This repository holds the code used to study for the renewal of the certification "Azure AI Engineering", including azure foundry. 
 
 ### Configure the Azure Foundry workspace
 To use the Azure Foundry workspace, you need to initiate a workspace within azure portal. then you need to create a keys folder and add a keys.json file with the following information:
